@@ -11,6 +11,6 @@ def guess_my_age():
            print(f"YOU LIKE THAT! YOU LIKE THAT!{name} is {guess} years old.")
            break
        elif answer =='n':
-           print("Rats.")
+           print("Awww Rats.")
 
 guess_my_age()
