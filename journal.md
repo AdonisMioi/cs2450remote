@@ -6,3 +6,8 @@ Date: 8.30.26 - Subject: Strong Typing and Weak Typing
 Date: 9.6.26 - Subject: HTML, CSS, JS
 
     For SE 1400 we are learning about HTML, CSS, and Javascript and how we can use them together to build the foundation of everything we see and use onthe web. We learned the HTML(Hypertext Markup Language) is used to structurethe web page, CSS(Cascading Style Sheets) is used to control the looks of the elements, and JS(Java Script) gives the website life by messing with the interactive features of the web.
+
+
+Date: 9.13.26 - Subject: Developing Sodtware - Phases
+
+    In CS-2450 we went over the phases of developing software, it is a process that all developers and developer teams usuallly go through when creatingsoftware. The phases in order are -- Ideas -> Requirements -> Design -> Implementation -> Validation -> Deployment -> Maintenance.
