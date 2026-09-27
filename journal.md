@@ -16,4 +16,8 @@ Date: 9.13.26 - Subject: Developing Software - Phases
 Date: 9.20.26 - Subject: Bitmasking
 
     In CS-2810 we learned about using bitwise & operations to Isolate bits aka bit masking. Usually hardware registers and binary data formats pack multiple pieces of infomration into a single byte, a bitwise & allows us to "block out" everything we don't care about and extract only the relevant bits.
-    
+
+
+Date: 9.27.26 - Flask
+
+    In CS-2450 we are putting together a presentation about our current software project(Blobfish Bets: Casino game website), my slides pertain to the solution architecture of our website, while doing the work I found out that flask is a microweb framework for Python, it is a microweb framework because it provides only the core essentials needed to build a web application, without forcing a specific databse, form validator, or project structure on you. 
