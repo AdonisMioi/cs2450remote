@@ -21,3 +21,12 @@ Date: 9.20.26 - Subject: Bitmasking
 Date: 9.27.26 - Flask
 
     In CS-2450 we are putting together a presentation about our current software project(Blobfish Bets: Casino game website), my slides pertain to the solution architecture of our website, while doing the work I found out that flask is a microweb framework for Python, it is a microweb framework because it provides only the core essentials needed to build a web application, without forcing a specific databse, form validator, or project structure on you. 
+
+
+Date: 10.04.26 - Flexbox
+
+    In SE-1400 we are creating a website and have recently been implementing flexbox to our CSS to arrange items on our website easily. Prior to using flexbox we had been using older CSS methods like floats and positioning, which are more set in stone kind of methods, with Flexbox our items are able to be more dynamic and can change its size to fit into the screen layout.
+
+Date: 10.11.26 - AI integrated VS Code
+
+    For our CS-2450 class we got to implement an AI agent into our code editors. During this process I learned that using the AI agent in your code editor makes it soooooo much easier to give the AI prompts it understands clearly due to it having access to all your code in the editor. 
