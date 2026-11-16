@@ -30,3 +30,7 @@ Date: 10.04.26 - Flexbox
 Date: 10.11.26 - AI integrated VS Code
 
     For our CS-2450 class we got to implement an AI agent into our code editors. During this process I learned that using the AI agent in your code editor makes it soooooo much easier to give the AI prompts it understands clearly due to it having access to all your code in the editor. 
+
+Date: 11.15.26 - Automated testing
+
+    We are learning to automate our code testing in our CS-2450 class. Some reasons why its impoortant is because you can catch bugs before deploying, it catches regressions, and it makes failures easier to investigate. It also saves the team time because everyone gets the same set of checks without having to run each teammates test script by hand.
